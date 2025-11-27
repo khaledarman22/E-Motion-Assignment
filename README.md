@@ -49,7 +49,7 @@ This application allows users to search for and view weather forecasts for diffe
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/khaledarman22/-Talent-Growth-Assignment.git
+   git clone https://github.com/khaledarman22/E-Motion-Assignment.git
    cd flutter_assignment
    ```
 
